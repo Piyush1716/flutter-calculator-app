@@ -1,16 +1,58 @@
-# calculator
+# 🖩 Flutter Calculator App
 
-A new Flutter project.
+A simple yet elegant calculator app built with **Flutter**. It supports basic arithmetic operations and features a **modern dark UI**.
 
-## Getting Started
+![Calculator Screenshot](assets/screenshot.png)
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+✅ Supports **Addition, Subtraction, Multiplication, and Division**\
+✅ Modern **Dark-Themed UI**\
+✅ Responsive **Button Layout**\
+✅ Built with **Flutter & Dart**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Calculator Screenshot](assets/screenshot.png)
+
+## 🛠️ Installation
+
+Follow these steps to run the app on your local machine:
+
+1. **Clone the repository**
+
+   ```sh
+   git clone https://github.com/your-username/flutter-calculator-app.git
+   cd flutter-calculator-app
+   ```
+
+2. **Install dependencies**
+
+   ```sh
+   flutter pub get
+   ```
+
+3. **Run the app**
+
+   ```sh
+   flutter run
+   ```
+
+## 📦 Build APK
+
+To generate a release APK, use the following command:
+
+```sh
+flutter build apk --release
+```
+
+This will create an `app-release.apk` in the `build/app/outputs/flutter-apk/` directory.
+
+## 🤝 Contributing
+
+Feel free to fork this repo and contribute!
+
+## 📜 License
+
+This project is **open-source** and available under the MIT License.
+
