@@ -2,8 +2,6 @@
 
 A simple yet elegant calculator app built with **Flutter**. It supports basic arithmetic operations and features a **modern dark UI**.
 
-![Calculator Screenshot](assets/screenshot.png)
-
 ## 🚀 Features
 
 ✅ Supports **Addition, Subtraction, Multiplication, and Division**\
@@ -13,7 +11,7 @@ A simple yet elegant calculator app built with **Flutter**. It supports basic ar
 
 ## 📸 Screenshots
 
-![Calculator Screenshot](assets/screenshot.png)
+<img src="assets/screenshot.png" alt="Calculator Screenshot" width="300">
 
 ## 🛠️ Installation
 
