@@ -20,7 +20,7 @@ Follow these steps to run the app on your local machine:
 1. **Clone the repository**
 
    ```sh
-   git clone https://github.com/your-username/flutter-calculator-app.git
+   git clone https://github.com/Piyush1716/flutter-calculator-app.git
    cd flutter-calculator-app
    ```
 
